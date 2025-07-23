@@ -1,0 +1,82 @@
+[
+  {
+    "_id": { "$oid": "64b01f100000000000000400" },
+    "fixtureId": "64b01f100000000000000300",
+    "status": "completed",
+    "winnerTeamId": "64b01f100000000000000301",
+    "startedAt": { "$date": "2025-07-21T16:00:00Z" },
+    "endedAt": { "$date": "2025-07-21T19:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000401" },
+    "fixtureId": "64b01f100000000000000301",
+    "status": "scheduled",
+    "winnerTeamId": null,
+    "startedAt": null,
+    "endedAt": null
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000402" },
+    "fixtureId": "64b01f100000000000000302",
+    "status": "completed",
+    "winnerTeamId": "64b01f100000000000000306",
+    "startedAt": { "$date": "2025-07-23T14:00:00Z" },
+    "endedAt": { "$date": "2025-07-23T17:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000403" },
+    "fixtureId": "64b01f100000000000000303",
+    "status": "scheduled",
+    "winnerTeamId": null,
+    "startedAt": null,
+    "endedAt": null
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000404" },
+    "fixtureId": "64b01f100000000000000304",
+    "status": "completed",
+    "winnerTeamId": "64b01f100000000000000310",
+    "startedAt": { "$date": "2025-07-25T08:00:00Z" },
+    "endedAt": { "$date": "2025-07-25T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000405" },
+    "fixtureId": "64b01f100000000000000305",
+    "status": "completed",
+    "winnerTeamId": "64b01f100000000000000311",
+    "startedAt": { "$date": "2025-07-26T17:00:00Z" },
+    "endedAt": { "$date": "2025-07-26T20:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000406" },
+    "fixtureId": "64b01f100000000000000306",
+    "status": "scheduled",
+    "winnerTeamId": null,
+    "startedAt": null,
+    "endedAt": null
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000407" },
+    "fixtureId": "64b01f100000000000000307",
+    "status": "completed",
+    "winnerTeamId": "64b01f100000000000000316",
+    "startedAt": { "$date": "2025-07-28T09:00:00Z" },
+    "endedAt": { "$date": "2025-07-28T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000408" },
+    "fixtureId": "64b01f100000000000000308",
+    "status": "scheduled",
+    "winnerTeamId": null,
+    "startedAt": null,
+    "endedAt": null
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000409" },
+    "fixtureId": "64b01f100000000000000309",
+    "status": "completed",
+    "winnerTeamId": "64b01f100000000000000320",
+    "startedAt": { "$date": "2025-07-30T13:00:00Z" },
+    "endedAt": { "$date": "2025-07-30T16:00:00Z" }
+  }
+]

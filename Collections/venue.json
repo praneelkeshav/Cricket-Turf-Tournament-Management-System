@@ -1,0 +1,82 @@
+[
+  {
+    "_id": { "$oid": "64b01f100000000000000900" },
+    "name": "TurfOne Arena",
+    "location": "T Nagar, Chennai",
+    "pricePerHour": 1500,
+    "capacity": 12,
+    "amenities": ["Lights", "Scoreboard", "Parking"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000901" },
+    "name": "Green Field",
+    "location": "Velachery, Chennai",
+    "pricePerHour": 1800,
+    "capacity": 14,
+    "amenities": ["Changing Room", "Refreshments", "WiFi"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000902" },
+    "name": "CricketZone",
+    "location": "Anna Nagar, Chennai",
+    "pricePerHour": 2000,
+    "capacity": 12,
+    "amenities": ["Lights", "Drinking Water", "Changing Room"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000903" },
+    "name": "ProTurf",
+    "location": "Adyar, Chennai",
+    "pricePerHour": 1600,
+    "capacity": 10,
+    "amenities": ["Parking", "First Aid", "Spectator Area"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000904" },
+    "name": "SuperStrikers Turf",
+    "location": "Tambaram, Chennai",
+    "pricePerHour": 1900,
+    "capacity": 14,
+    "amenities": ["Scoreboard", "Floodlights", "Lounge"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000905" },
+    "name": "Urban Turf Ground",
+    "location": "Thiruvanmiyur, Chennai",
+    "pricePerHour": 1700,
+    "capacity": 12,
+    "amenities": ["Changing Room", "Water", "Score Display"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000906" },
+    "name": "Skyline Arena",
+    "location": "Porur, Chennai",
+    "pricePerHour": 1750,
+    "capacity": 16,
+    "amenities": ["Digital Scoreboard", "VIP Box", "Restroom"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000907" },
+    "name": "Coastal Cricket Turf",
+    "location": "Besant Nagar, Chennai",
+    "pricePerHour": 1400,
+    "capacity": 10,
+    "amenities": ["Beach View", "Lights", "Open Pavilion"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000908" },
+    "name": "Royal Grounds",
+    "location": "Nungambakkam, Chennai",
+    "pricePerHour": 2000,
+    "capacity": 18,
+    "amenities": ["Spectator Stands", "Lounge", "Cafeteria"]
+  },
+  {
+    "_id": { "$oid": "64b01f100000000000000909" },
+    "name": "Legends Turf",
+    "location": "Kodambakkam, Chennai",
+    "pricePerHour": 1500,
+    "capacity": 13,
+    "amenities": ["Grass Pitch", "Locker Room", "Lights"]
+  }
+]
